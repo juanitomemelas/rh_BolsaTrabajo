@@ -1,0 +1,31 @@
+F:\Requerimientos\Grupo Sanchez\Projects\WebApplication1\WebApplication1\bin\RCVacantes.dll
+F:\Requerimientos\Grupo Sanchez\Projects\WebApplication1\WebApplication1\bin\RCVacantes.pdb
+F:\Requerimientos\Grupo Sanchez\Projects\WebApplication1\WebApplication1\obj\Debug\RCVacantes.dll
+F:\Requerimientos\Grupo Sanchez\Projects\WebApplication1\WebApplication1\obj\Debug\RCVacantes.pdb
+F:\Requerimientos\Grupo Sanchez\Projects\WebApplication1\WebApplication1\obj\Debug\Vacantes_RH.csprojResolveAssemblyReference.cache
+E:\Requerimientos\Grupo Sanchez\Projects\WebApplication1\WebApplication1\bin\RCVacantes.dll
+E:\Requerimientos\Grupo Sanchez\Projects\WebApplication1\WebApplication1\bin\RCVacantes.pdb
+E:\Requerimientos\Grupo Sanchez\Projects\WebApplication1\WebApplication1\obj\Debug\Vacantes_RH.csprojResolveAssemblyReference.cache
+E:\Requerimientos\Grupo Sanchez\Projects\WebApplication1\WebApplication1\obj\Debug\RCVacantes.dll
+E:\Requerimientos\Grupo Sanchez\Projects\WebApplication1\WebApplication1\obj\Debug\RCVacantes.pdb
+C:\Users\desweb.SANCHEZ2003\Documents\WebApplication1\WebApplication1\obj\Debug\Vacantes_RH.csprojResolveAssemblyReference.cache
+C:\Users\desweb.SANCHEZ2003\Documents\WebApplication1\WebApplication1\bin\rh_bolsaTrabajo.dll
+C:\Users\desweb.SANCHEZ2003\Documents\WebApplication1\WebApplication1\bin\rh_bolsaTrabajo.pdb
+C:\Users\desweb.SANCHEZ2003\Documents\WebApplication1\WebApplication1\obj\Debug\rh_bolsaTrabajo.dll
+C:\Users\desweb.SANCHEZ2003\Documents\WebApplication1\WebApplication1\obj\Debug\rh_bolsaTrabajo.pdb
+C:\Users\desweb.SANCHEZ2003\Documents\RH_PROD\WebApplication1\bin\rh_bolsaTrabajo.dll
+C:\Users\desweb.SANCHEZ2003\Documents\RH_PROD\WebApplication1\bin\rh_bolsaTrabajo.pdb
+C:\Users\desweb.SANCHEZ2003\Documents\RH_PROD\WebApplication1\obj\Debug\rh_bolsaTrabajo.dll
+C:\Users\desweb.SANCHEZ2003\Documents\RH_PROD\WebApplication1\obj\Debug\rh_bolsaTrabajo.pdb
+C:\Users\desweb.SANCHEZ2003\Documents\RH_PROD\WebApplication1\bin\Oracle.DataAccess.dll
+C:\Users\Usuario\Desktop\Sanchez\RH_PROD\WebApplication1\bin\rh_bolsaTrabajo.dll
+C:\Users\Usuario\Desktop\Sanchez\RH_PROD\WebApplication1\bin\rh_bolsaTrabajo.pdb
+C:\Users\Usuario\Desktop\Sanchez\RH_PROD\WebApplication1\bin\Oracle.DataAccess.dll
+C:\Users\Usuario\Desktop\Sanchez\RH_PROD\WebApplication1\obj\Debug\rh_bolsaTrabajo.dll
+C:\Users\Usuario\Desktop\Sanchez\RH_PROD\WebApplication1\obj\Debug\rh_bolsaTrabajo.pdb
+C:\Users\Usuario\Desktop\Sanchez\RH_PROD\WebApplication1\obj\Debug\Vacantes_RH.csprojResolveAssemblyReference.cache
+E:\Requerimientos\Grupo Sanchez\Sanchez\RH_PROD\WebApplication1\bin\rh_bolsaTrabajo.dll
+E:\Requerimientos\Grupo Sanchez\Sanchez\RH_PROD\WebApplication1\bin\rh_bolsaTrabajo.pdb
+E:\Requerimientos\Grupo Sanchez\Sanchez\RH_PROD\WebApplication1\obj\Debug\Vacantes_RH.csprojResolveAssemblyReference.cache
+E:\Requerimientos\Grupo Sanchez\Sanchez\RH_PROD\WebApplication1\obj\Debug\rh_bolsaTrabajo.dll
+E:\Requerimientos\Grupo Sanchez\Sanchez\RH_PROD\WebApplication1\obj\Debug\rh_bolsaTrabajo.pdb

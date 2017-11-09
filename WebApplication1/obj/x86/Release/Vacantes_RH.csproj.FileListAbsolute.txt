@@ -1,0 +1,5 @@
+C:\Users\desweb.SANCHEZ2003\Documents\RH_PROD\WebApplication1\bin\x86\Release\rh_bolsaTrabajo.dll
+C:\Users\desweb.SANCHEZ2003\Documents\RH_PROD\WebApplication1\bin\x86\Release\rh_bolsaTrabajo.pdb
+C:\Users\desweb.SANCHEZ2003\Documents\RH_PROD\WebApplication1\bin\x86\Release\Oracle.DataAccess.dll
+C:\Users\desweb.SANCHEZ2003\Documents\RH_PROD\WebApplication1\obj\x86\Release\rh_bolsaTrabajo.dll
+C:\Users\desweb.SANCHEZ2003\Documents\RH_PROD\WebApplication1\obj\x86\Release\rh_bolsaTrabajo.pdb
