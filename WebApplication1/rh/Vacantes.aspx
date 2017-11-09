@@ -39,25 +39,7 @@
     <script src="../Scripts/jquery-1.12.3.min.js" type="text/javascript"></script>
     <script src="../Scripts/jArbol/jstree.js" type="text/javascript"></script>
     <script type="text/javascript">
-        $(function () {
-            $('#jArbol').jstree();
-            $('#jArbol').on("changed.jstree", function (e, data) {
-                manipulaDivcontenedorDerecho(data.selected);
-            });
-            $('button').on('click', function () {
-                $('#jArbol').jstree(true).select_node('CreaVacante');
-                $('#jArbol').jstree('select_node', 'CreaVacante');
-                $.jstree.reference('#jArbol').select_node('CreaVacante');
-            });
-        });
-        $("#elframePrincipal").load(function () {
-            if ($(this).contents().find("html").height() > 550) {
-                $(this).height($(this).contents().find("html").height());
-            } else {
-               $(this).height("550px");
-            }
-            //$(this).height($(this).contents().find("html").height());
-        });
+        $(function () { $("#jArbol").jstree(), $("#jArbol").on("changed.jstree", function (e, t) { manipulaDivcontenedorDerecho(t.selected) }), $("button").on("click", function () { $("#jArbol").jstree(!0).select_node("CreaVacante"), $("#jArbol").jstree("select_node", "CreaVacante"), $.jstree.reference("#jArbol").select_node("CreaVacante") }) }), $("#elframePrincipal").load(function () { $(this).contents().find("html").height() > 550 ? $(this).height($(this).contents().find("html").height()) : $(this).height("550px") });
     </script>
     <script src="../Scripts/vacantes.js" type="text/javascript"></script>
 </asp:Content>

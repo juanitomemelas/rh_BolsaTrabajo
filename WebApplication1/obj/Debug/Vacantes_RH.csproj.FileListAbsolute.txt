@@ -29,3 +29,8 @@ E:\Requerimientos\Grupo Sanchez\Sanchez\RH_PROD\WebApplication1\bin\rh_bolsaTrab
 E:\Requerimientos\Grupo Sanchez\Sanchez\RH_PROD\WebApplication1\obj\Debug\Vacantes_RH.csprojResolveAssemblyReference.cache
 E:\Requerimientos\Grupo Sanchez\Sanchez\RH_PROD\WebApplication1\obj\Debug\rh_bolsaTrabajo.dll
 E:\Requerimientos\Grupo Sanchez\Sanchez\RH_PROD\WebApplication1\obj\Debug\rh_bolsaTrabajo.pdb
+C:\Users\mahon\Documents\GitHub\rh_BolsaTrabajo\WebApplication1\bin\rh_bolsaTrabajo.dll
+C:\Users\mahon\Documents\GitHub\rh_BolsaTrabajo\WebApplication1\bin\rh_bolsaTrabajo.pdb
+C:\Users\mahon\Documents\GitHub\rh_BolsaTrabajo\WebApplication1\obj\Debug\Vacantes_RH.csprojResolveAssemblyReference.cache
+C:\Users\mahon\Documents\GitHub\rh_BolsaTrabajo\WebApplication1\obj\Debug\rh_bolsaTrabajo.dll
+C:\Users\mahon\Documents\GitHub\rh_BolsaTrabajo\WebApplication1\obj\Debug\rh_bolsaTrabajo.pdb
