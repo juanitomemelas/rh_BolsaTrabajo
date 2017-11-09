@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacantes_RH", "WebApplication1\Vacantes_RH.csproj", "{26B00B0A-685F-4385-B1FE-6BB5BE75FDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Prod|Any CPU = Prod|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26B00B0A-685F-4385-B1FE-6BB5BE75FDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B00B0A-685F-4385-B1FE-6BB5BE75FDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B00B0A-685F-4385-B1FE-6BB5BE75FDDE}.Prod|Any CPU.ActiveCfg = Release|x86
+		{26B00B0A-685F-4385-B1FE-6BB5BE75FDDE}.Prod|Any CPU.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
